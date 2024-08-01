@@ -1,2 +1,3 @@
 # js.recomendador-de-filmes
-RE
+Recomendando filmes de acordo com sua idade
+
